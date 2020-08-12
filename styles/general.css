@@ -1,0 +1,9 @@
+/* desktop view */
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media (min-width : 10px){
+  body {
+    background-color: white;
+  }
+}
