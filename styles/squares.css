@@ -31,7 +31,7 @@
   /* A row */
   .grid1 {
     margin-top: 100px;
-    margin-left: 340px;
+    margin-left: 610px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
     grid-auto-rows: 2fr;
@@ -42,7 +42,7 @@
   /* B row */
   .grid2 {
     margin-top: 10px;
-    margin-left: 290px;
+    margin-left: 560px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
     grid-auto-rows: 2fr;
@@ -53,12 +53,52 @@
   /* c row */
   .grid3 {
     margin-top: 10px;
-    margin-left: 238px;
+    margin-left: 510px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
     grid-auto-rows: 2fr;
   }
   /* end of c row */
+
+  /* d row */
+  .grid4 {
+    margin-top: 10px;
+    margin-left: 510px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
+    grid-auto-rows: 2fr;
+  }
+  /* end of d row */
+
+  /* e row */
+  .grid5 {
+    margin-top: 10px;
+    margin-left: 510px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
+    grid-auto-rows: 2fr;
+  }
+  /* end of e row */
+
+  /* f row */
+  .grid6 {
+    margin-top: 10px;
+    margin-left: 560px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
+    grid-auto-rows: 2fr;
+  }
+  /* end of f row */
+
+  /* g row */
+  .grid7 {
+    margin-top: 10px;
+    margin-left: 610px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(3rem, 1fr));
+    grid-auto-rows: 2fr;
+  }
+  /* end of g row */
 
 
 
