@@ -14,4 +14,4 @@ Designs:
 
 
 GitHub URL:
-[McKinstry R&D](https://travisgm92.github.io/MckinstryBrosWebDev/)
+[McKinstry R&D](https://github.com/TravisGM92/web_proj2)
