@@ -80,4 +80,12 @@
     margin-right: 41%;
   }
 
+  .btn-light {
+    background-color: springGreen;
+  }
+
+  .btn:hover {
+    background-color: black;
+  }
+
 }
