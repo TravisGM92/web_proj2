@@ -7,7 +7,7 @@
 <h3>Roles</h3>
 <ul>
   <li>Travis McKinstry - Full Stack Developer</li>
-  <li>John McKinstry - Machine Learning Researcher</li>
+  <li>John McKinstry - Machine Learning Researcher </li>
 </ul>
 
 Designs:
