@@ -3,6 +3,9 @@
   display: inline-block;
   width: 60px;
   height: 34px;
+  margin-left: 210px;
+  margin-top: 5px;
+
 }
 
 .switch input {
@@ -64,4 +67,8 @@ input:checked + .slider:before {
 
 .slider.round:before {
   border-radius: 50%;
+}
+
+.toggles {
+  margin-left: 200px;
 }
